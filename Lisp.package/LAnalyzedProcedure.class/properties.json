@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LProcedure",
+	"category" : "Lisp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LAnalyzedProcedure",
+	"type" : "normal"
+}

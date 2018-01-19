@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Lisp",
+	"category" : "Lisp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LispAnalyzerEvaluator",
+	"type" : "normal"
+}

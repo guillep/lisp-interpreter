@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "GuillermoPolito 12/1/2017 17:09",
+	"super" : "Object",
+	"category" : "Lisp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"environment",
+		"globalEnvironment"
+	],
+	"name" : "Lisp",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Lisp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parameterList",
+		"body",
+		"environment"
+	],
+	"name" : "LProcedure",
+	"type" : "normal"
+}
